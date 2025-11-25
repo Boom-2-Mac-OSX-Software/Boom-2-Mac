@@ -1,6 +1,6 @@
 # Boom2 Mac Standard License
 
-<img src="https://d3jbf8nvvpx3fh.cloudfront.net/Boom2/web/images/Boom2-icon.png" width="200" alt="App icon" align="left"/>
+<img src="https://sc.filehippo.net/images/t_app-icon-l/p/f0f5eaac-9b26-11e6-9b96-00163ed833e7/1787156132/boom-2-mac-logo" width="200" alt="App icon" align="left"/>
 
 <div>
 <h3>Boom 2 for macOS</h3>
